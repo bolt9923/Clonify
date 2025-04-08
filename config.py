@@ -19,7 +19,7 @@ OWNER_USERNAME = getenv("OWNER_USERNAME","X1JOD")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "RARE_HOSTER_BOT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "ʀᴀʀᴇ ʜᴏsᴛᴇʀ")
+BOT_NAME = getenv("BOT_NAME" , "RARE HOSTER")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "Dostsysh")
 # ---------------------------------------------------------
