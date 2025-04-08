@@ -73,7 +73,7 @@ GIT_TOKEN = getenv(
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/NLTRIDE")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/the_friends_junction")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/huntermafiya")
 CHAT = getenv("CHAT", "https://t.me/the_friends_junction")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
@@ -149,15 +149,15 @@ STREAMI_PICS = [
 ]
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://i.ibb.co/xPjc7tv/help-menu.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/axv2m3.jpg"
 )
 
 HELP_IMG_URL = getenv(
-    "HELP_IMG_URL", "https://i.ibb.co/xPjc7tv/help-menu.jpg"
+    "HELP_IMG_URL", "https://files.catbox.moe/axv2m3.jpg"
 )
 
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://i.ibb.co/VWnm6f3f/ping.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/axv2m3.jpg"
 )
 PLAYLIST_IMG_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
 STATS_IMG_URL = "https://i.ibb.co/pBqPtFYn/statistics.jpg"
