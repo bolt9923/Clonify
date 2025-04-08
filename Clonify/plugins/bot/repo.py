@@ -12,7 +12,7 @@ start_txt = """
 ┏━━━━━━━━━━━━━━━━━⧫
 ┠ ◆ **sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ:** [Click Here](https://t.me/NlTRIDE)  
 ┠ ◆ **ᴅᴇᴠᴇʟᴏᴘᴇʀ:** [ᴛᴇᴀᴍ ʜᴜɴᴛᴇʀs](https://t.me/huntermafiya)
-┠ ◆ **ʀᴇʟᴇᴀsᴇᴅ ʙʏ:** [PʀᴏBᴏᴛs](https://t.me/ProBotts)
+┠ ◆ **ʀᴇʟᴇᴀsᴇᴅ ʙʏ:** [ʀᴀʀᴇ ʙᴏᴛs](https://t.me/huntermafiya)
 ┗━━━━━━━━━━━━━━━━━⧫
 
 __Fᴏʀᴋ ɪᴛ, ᴄᴜsᴛᴏᴍɪᴢᴇ ɪᴛ, ᴀɴᴅ ᴍᴀᴋᴇ ɪᴛ ʏᴏᴜʀ ᴏᴡɴ!__
