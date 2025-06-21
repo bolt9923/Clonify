@@ -15,13 +15,13 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","X1JOD")
+OWNER_USERNAME = getenv("OWNER_USERNAME","lgangsterll")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "RARE_HOSTER_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "rarehosterbot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "RARE HOSTER")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "Dostsysh")
+ASSUSERNAME = getenv("ASSUSERNAME" , "hero5516")
 # ---------------------------------------------------------
 
 
@@ -41,7 +41,7 @@ LOGGER_ID = int(getenv("LOGGER_ID"))
 CLONE_LOGGER = LOGGER_ID
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 5487734890))
+OWNER_ID = int(getenv("OWNER_ID", 7589125042))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
