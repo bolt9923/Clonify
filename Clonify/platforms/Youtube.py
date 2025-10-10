@@ -20,7 +20,7 @@ import time
 
 
 # ✅ Configurable constants
-API_KEY = "McfFz57400OveKmvRjFv"
+API_KEY = "FVnhY23665puvIytEUgw"
 API_BASE_URL = "http://deadlinetech.site"
 
 MIN_FILE_SIZE = 51200
